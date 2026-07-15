@@ -45,7 +45,7 @@ header{
 .logo-icon{
     width:18px;
     height:18px;
-    background:#2d6cdf;
+    background:#7A1F3D;
     border-radius:4px;
 }
 
@@ -72,7 +72,7 @@ nav a{
 }
 
 nav a:hover{
-    color:#2d6cdf;
+    color:#7A1F3D;
 }
 
 /* ===========================
@@ -133,7 +133,7 @@ nav a:hover{
 
 .btn-primary:hover{
     transform:translateY(-3px);
-    background:#1d4fb5;
+    background:#5A162D;
 }
 
 .btn-secondary{
